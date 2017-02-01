@@ -1,3 +1,3 @@
 In September 2016 we did a long hike in Marin county, going from Sausalito to Muir Beach for lunch, and then onwards to Bootjack campground on Mt Tamalpais at the end of the day – a total of about 17 miles for the day. We camped there and then walked back to downtown Mill Valley the next morning. Walking is a fantastic way to connect with the landscape, and a long walk is an easy way to get in flow.
 
-
+![Flow Forum at the Pelican Inn]({{ site.url }}/assets/pelicaninn.jpg)
