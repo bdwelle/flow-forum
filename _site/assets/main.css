@@ -179,3 +179,5 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .highlight .il { color: #099; }
 
 .page-heading { font-size: 30px; }
+
+.post-list > li { margin-bottom: 0px; }

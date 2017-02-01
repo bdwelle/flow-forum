@@ -38,6 +38,14 @@ $on-laptop:        800px;
 // Import partials from the `minima` theme.
 @import "minima";
 
+// Overrides of stock minima CSS
 .page-heading {
   font-size: 30px;
 }
+
+.post-list {
+  > li {
+    margin-bottom: 0px;
+  }
+}
+
