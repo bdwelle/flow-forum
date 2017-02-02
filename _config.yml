@@ -13,20 +13,38 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+safe: false
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+lsi: false
+permalink: /:title
+
 title: Flow Forum
-email: bdwelle@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   An EO Forum focused on outdoor physical activity and Flow
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: bdwelle
 #github_username:  bdwelle
+accent: "#f7f7e6" # accent color for blog column
+author: "Bowen Dwelle"
+address: "EO San Francisco"
+email: "bdwelle@gmail.com"
 
-# Build settings
-markdown: kramdown
-theme: minima
 gems:
   - jekyll-feed
+
+# google analytics tracking code, please change the value
+g_analytics: 
+
+# language settings
+isolang: en
+
+# exclude files
 exclude:
   - Gemfile
   - Gemfile.lock
+  - LICENSE
+  - README.md

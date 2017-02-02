@@ -1,10 +1,3 @@
----
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
----
-
 _Flow_ is the mental state of being fully immersed in energized focus, full involvement, and enjoyment in the process of an activity. We are happier, more productive and more our best selves in Flow.
 
 > “Most enjoyable activities are not natural; they demand an effort that initially one is reluctant to make. But once the interaction starts to provide feedback to the person's skills, it usually begins to be intrinsically rewarding.” 
