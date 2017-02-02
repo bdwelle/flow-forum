@@ -15,7 +15,7 @@
 					{% capture myInclude %}{% include about.md %}{% endcapture %}
 					{{ myInclude | markdownify }}
 				</div>
-				<div class="unit whole hide-on-mobiles" id="/impressum">
+				<div class="unit whole" id="/impressum">
 					{% include imprint.html %}
 				</div>
 			</div>
@@ -30,13 +30,6 @@
 					<p><a href="feed.xml">RSS</a> & <a href="atom.xml">ATOM</a> Feed<br>Built with Jekyll, Code on <a href="https://github.com/lukas-h/onepage">Github</a></p>
 				</div>
 			</div>
-		</div>
-
-		<div class="unit whole hide-on-desktops" id="/projects">
-			{% include projects.html %}
-		</div>
-		<div class="unit whole hide-on-desktops" id="/impressum">
-			{% include imprint.html %}
 		</div>
 	</div>
 
