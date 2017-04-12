@@ -31,7 +31,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 accent: "#f7f7e6" # accent color for blog column
 author: "Bowen Dwelle"
 address: "EO San Francisco"
-email: "bdwelle@gmail.com"
+email: "bdwelle+eo@gmail.com"
 
 gems:
   - jekyll-feed
