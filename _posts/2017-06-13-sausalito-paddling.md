@@ -2,6 +2,10 @@ In June 2017 we met in Sausalito and spent the entire morning on the water, stan
 We had perfect weather and paddled out to Yellow Bluff and then over to Belevedere before returning for lunch and a 
 full afternoon of forum presentations. Another top-notch and very unique Flow Forum experience! 
 
-![Flow Forum at Joshua Tree]({{ site.url }}/assets/images/JTree-group.jpg)
+![Sausalito Paddling]({{ site.url }}/assets/images/IMG_7237.JPG)
 
-![Flow Forum at Joshua Tree]({{ site.url }}/assets/images/JTree-close.j
+![Sausalito Paddling]({{ site.url }}/assets/images/IMG_7271.JPG)
+
+![Sausalito Paddling]({{ site.url }}/assets/images/IMG_7261.JPG)
+
+![Sausalito Paddling]({{ site.url }}/assets/images/IMG_7255.JPG)
