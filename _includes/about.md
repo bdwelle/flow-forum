@@ -1,7 +1,7 @@
 [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) is the mental state of being immersed in energized focus, full involvement, and enjoyment in the process of an activity. We are happier, more productive and more our best selves in Flow.
 
-> “Most enjoyable activities are not natural; they demand an effort that initially one is reluctant to make. But once the interaction starts to provide feedback to the person's skills, it usually begins to be intrinsically rewarding.” 
-― Mihaly Csikszentmihalyi, [Flow: The Psychology of Optimal Experience](https://www.goodreads.com/book/show/66354.Flow)
+> “...the best moments in our lives, are not the passive, receptive, relaxing times... The best moments usually occur when a person’s body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile. Optimal experience is thus something that we make happen.” 
+― Mihaly Csikszentmihalyi, [Flow: The Psychology of Optimal Experience](https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
 
 _Flow Forum_ inspires and challenges us to lead extraordinary lives by focusing on being active in the outdoors, challenging ourselves with physical goals, and learning to use Flow in all aspects of our lives.
 
