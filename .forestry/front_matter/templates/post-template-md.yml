@@ -1,7 +1,9 @@
 ---
 pages:
-- _posts/2018-02-02-hope-valley-md.md
+- _posts/2017-04-07-joshua-tree-climbing.md
+- _posts/2018-02-02-hope-valley-snowshoeing.md
 hide_body: false
+is_partial: false
 fields:
 - name: date
   label: Date
