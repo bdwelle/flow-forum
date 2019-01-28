@@ -7,4 +7,4 @@ _Flow Forum_ inspires and challenges us to lead extraordinary lives by focusing 
 
 This forum includes many aspects of a traditional [EO Forum](http://www.eonetwork.org/why-join/forum/), with the addition of a significant focus on physical challenges and outdoor activities such as hiking, running, swimming, surfing, cycling, and climbing. Flow Forum was founded by EO San Francisco member [Bowen Dwelle](http://bowendwelle.com) in 2014 and meets on a quarterly basis. 
 
-&mdash; {{ site.author }}, Feb 2017
+&mdash; {{ site.author }}
